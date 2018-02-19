@@ -1,0 +1,8 @@
+Why are we using postgresql database  instead of sqlite ?
+
+PostgreSQL is the most advanced RDBMS ([object]-relational database management
+system). PostgreSQL is the DBM that contains the most functionality of all the
+other DBM's. PostgreSQL's to other DBMs like SQLite is mainly due to its
+extensibility, or in other words, it's ability to be customized and tweaked.
+On top of its customizability PostgreSQL also features stronger data integrity
+than its other DBM counterparts such as SQLite. 
